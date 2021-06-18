@@ -26,9 +26,9 @@ Provided much needed respite for times in distress and protest near us when it w
 3. The Room
 
 <p float="left" >
-  <img src="./1.png" width="33%" />
-  <img src="./2.png" width="33%" /> 
-  <img src="./3.png" width="33%" /> 
+  <img src="./1.png" width="31%" />
+  <img src="./2.png" width="31%" /> 
+  <img src="./3.png" width="31%" /> 
 </p>
 
 ## Download Links
