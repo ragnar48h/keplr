@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357725378074",
+    "firebase_url": "https://keplr-4ff01.firebaseio.com",
+    "project_id": "keplr-4ff01",
+    "storage_bucket": "keplr-4ff01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357725378074:android:229fd2ff8ae82345f0a3a3",
+        "android_client_info": {
+          "package_name": "com.keplr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357725378074-tbcmbhoik89jd82gc5gfultvro6sk919.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXA_l02_lT0UYdP7kZ0rVGxxlyz3GjfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357725378074-tbcmbhoik89jd82gc5gfultvro6sk919.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
